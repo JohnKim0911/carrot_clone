@@ -222,8 +222,8 @@
 
         .Team_1,
         .Team_2,
-        .Team_3,
-        .Team_4 {
+        .Team_3{
+        
             width: 1024px;          
             margin: 0 auto;
             display: flex;
@@ -234,7 +234,8 @@
 
         #imgA,
         #imgC,
-        #imgD {
+        #imgD
+             {
             background-size: 655px 750px;
             width: 655px;
             height: 750px;
@@ -242,7 +243,8 @@
         }
 
         #A1_title,
-        #A3_title {
+        #A3_title,
+        #A4_title {
 
             font-weight: 700;
             font-size: 18px;
@@ -255,7 +257,8 @@
         }
 
         #A1_body,
-        #A3_body {
+        #A3_body,
+        #A4_body {
             font-weight: 700;
             font-size: 42px;
             line-height: 57px;
@@ -263,7 +266,8 @@
         }
 
         #A1_footer,
-        #A3_footer {
+        #A3_footer,
+        #A4_footer {
             font-weight: 400;
             font-size: 19px;
             color: #7c7c7c;
@@ -271,7 +275,8 @@
         }
 
         #A1_btn,
-        #A3_btn {
+        #A3_btn,
+        #A4_btn {
             margin-top: 3.2mm;
             font-size: 18px;
             line-height: 23.76px;
@@ -280,7 +285,8 @@
 
         #A1_btn1,
         #A1_btn2,
-        #A3_btn1 {
+        #A3_btn1
+        #A4_btn1 {
             background-color: #e9ecef;
             color: #212529;
             border: none;
@@ -393,8 +399,20 @@
         }
 
         #main4{
-
+            background-color: #F6FDEC
         }
+        .Team_4{
+            width: 1024px;
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: center;
+           margin: 0 auto;
+           
+        }
+
+    
+
+
 
 /* ----------------------------------------- 이태형 ---------------------------------------------------------------------------------------------------------------------------------------- */
 
