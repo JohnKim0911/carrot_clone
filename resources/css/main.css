@@ -397,6 +397,8 @@
     box-sizing: border-box;
     width: 768px;
     height: 648px;
+    margin: 0 auto;
+
 }
 
 #footer_1 {
@@ -405,6 +407,7 @@
     /* border: 1px solid blue; */
     display: flex;
     padding: 50px 0;
+    position: relative;
 }
 #footer_1 a:hover{
     text-decoration: underline;
@@ -415,7 +418,7 @@
     vertical-align: middle;
 }
 #footer_1 li{
-    margin: 20px;
+    margin: 16px;
 }
 
 #footer_2 {
@@ -443,6 +446,12 @@
     font-size: 12px;
     float: left;
 }
+#info_1>div{
+    margin-bottom: 5px;
+}
+#info_1>div>b{
+    font-weight:600;
+}
 #info_2_1 ul,
 #info_2_2 ul {
     list-style-type: none;
@@ -451,19 +460,19 @@
 
 #info_2_1 li {
     float: left;
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 #info_2_2 li {
     float: left;
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 #info_2_1 a,#info_2_2 a {
     text-decoration: none;
     color: gray;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 #pri>a {
@@ -481,7 +490,8 @@
 
 #icon{
     position: absolute;
-    left: 420px;
+    left: 455px;
+    bottom: 330px;
 }
 #icon svg{
     color: gray;
@@ -525,16 +535,22 @@ select{
 }
 #download{
     position: absolute;
-    top: 60px;
-    left: 470px; 
+    top: 50px;
+    left: 440px;
+    
 }
 
 #way>div{
     display: flex;
-    margin: 20px 40px 0 10px;
+    margin: 20px 50px 0 5px;
     background-color: rgba(173, 173, 173, 0.281);
     justify-content: center;
     scale: 1.5;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    
 }
 #way>div{
     float: left;       
@@ -543,5 +559,8 @@ select{
 #way>div>a:hover{
     color: rgba(61, 60, 60, 0.479);
     text-decoration: none;
+}
+#way>div>a{
+    font-size: 10px;
 }
 
