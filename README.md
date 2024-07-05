@@ -21,9 +21,10 @@
 
 ## 역할구분
 
-| 이름   | 담당부분             | 담당화면                                                                                                 |
-|--------|----------------------|---------------------------------------------------------------------------------------------------------|
-| 김동규 | Header, Main Screen  | ![Header, Main Screen](https://github.com/JohnKim0911/carrot_clone/assets/115627305/d2125631-41c4-4f8b-aacf-fdd4de11cb93) |
-| 김민   | Content              | ![Content](https://github.com/JohnKim0911/carrot_clone/assets/115627305/7e2307b6-7da3-4b86-a04c-224b4a1c82ce)   |
-| 이태형 | Footer               | ![Footer](https://github.com/JohnKim0911/carrot_clone/assets/115627305/8489640a-f156-49c5-a90d-564908e303fb)   |
+| 이름   | 담당부분             | 담당화면                                                                                                      |
+|--------|----------------------|---------------------------------------------------------------------------------------------------------------|
+| 김동규 | Header, Main Screen  | <img src="https://github.com/JohnKim0911/carrot_clone/assets/115627305/d2125631-41c4-4f8b-aacf-fdd4de11cb93" width="400px"> |
+| 김민   | Content              | <img src="https://github.com/JohnKim0911/carrot_clone/assets/115627305/7e2307b6-7da3-4b86-a04c-224b4a1c82ce" width="400px">   |
+| 이태형 | Footer               | <img src="https://github.com/JohnKim0911/carrot_clone/assets/115627305/8489640a-f156-49c5-a90d-564908e303fb" width="400px">   |
+
 
