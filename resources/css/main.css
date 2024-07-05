@@ -221,7 +221,8 @@
 
         .Team_1,
         .Team_2,
-        .Team_3{
+        .Team_3 {
+                  
         
             width: 1024px;          
             margin: 0 auto;
@@ -284,7 +285,7 @@
 
         #A1_btn1,
         #A1_btn2,
-        #A3_btn1
+        #A3_btn1,
         #A4_btn1 {
             background-color: #e9ecef;
             color: #212529;
@@ -300,7 +301,8 @@
         /* 버튼 후버 - 추가 by 김동규. 20240703 */
         #A1_btn1:hover,
         #A1_btn2:hover,
-        #A3_btn1:hover {
+        #A3_btn1:hover,
+        #A4_btn1:hover {
             background-color: #dee2e6;
         }
 
@@ -398,16 +400,20 @@
         }
 
         #main4{
-            background-color: #F6FDEC
+            background-color: #F6FDEC;
+            
+            
         }
         .Team_4{
             width: 1024px;
             display: flex;
             flex-direction: row-reverse;
             align-items: center;
-           margin: 0 auto;
+            margin: 0 auto;
+            justify-content: space-between;
            
         }
+        
 
     
 
