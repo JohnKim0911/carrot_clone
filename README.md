@@ -5,12 +5,11 @@
 
 당근 홈페이지를 clone하는 <b>미니 팀 프로젝트<b>입니다.
 
-
 - 원본 홈페이지 (목표) : https://www.daangn.com/
 
 - 우리 홈페이지 (결과물) : https://johnkim0911.github.io/carrot_clone/
 
-
+> 메인 홈페이지만 clone하고, 각각의 세부페이지는 작업하지 않습니다.
 
 ## 팀원
 - 김동규 (https://github.com/JohnKim0911)
