@@ -416,7 +416,7 @@
 /* ----------------------------------------- 이태형 ---------------------------------------------------------------------------------------------------------------------------------------- */
 
 #footer {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     box-sizing: border-box;
     width: 768px;
     height: 648px;
@@ -441,7 +441,7 @@
     vertical-align: middle;
 }
 #footer_1 li{
-    margin: 16px;
+    margin: 30px 20px 30px 10px;
 }
 
 #footer_2 {
@@ -553,13 +553,13 @@ select{
 }
 
 #footer_1_1>li>a{
-    display: block;
+    /* display: block; */
     height: 20%;
 }
 #download{
     position: absolute;
     top: 50px;
-    left: 440px;
+    left: 450px;
     
 }
 
@@ -585,5 +585,9 @@ select{
 }
 #way>div>a{
     font-size: 10px;
+    padding: 8px 0 0 0;
 }
+#way>div>svg{padding: 6px 6px 0 0;}
+
+b{font-weight: 600;}
 
