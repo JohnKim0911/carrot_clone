@@ -11,11 +11,11 @@
 
 > 메인 홈페이지만 clone하고, 각각의 세부페이지는 작업하지 않습니다.
 
+
 ## 팀원
 - 김동규 (https://github.com/JohnKim0911)
 - 김민 (https://github.com/km4405)
 - 이태형 (https://github.com/Leetaehyeong11)
-
 
 
 ## 역할구분
@@ -27,3 +27,11 @@
 | 이태형 | Footer               | <img src="https://github.com/JohnKim0911/carrot_clone/assets/115627305/8489640a-f156-49c5-a90d-564908e303fb" width="400px">   |
 
 
+## 개발기간
+
+2024년 7월 3일 ~ 5일 (총 3일)
+
+## 주요사항
+
+1. HTML, CSS 연습
+2. Github으로 버전관리 및 협업하는 방법 연습
